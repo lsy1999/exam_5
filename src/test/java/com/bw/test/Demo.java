@@ -12,5 +12,8 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("helloWord");
+		
+		//（五）修改项目代码，再次提交Git仓库。
+		System.out.println(111);
 	}
 }
